@@ -20,4 +20,4 @@ Languages and tools:
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=black-software100&theme=dark)](https://git.io/streak-stats)
-[1]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+
