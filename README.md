@@ -18,6 +18,6 @@ Languages and tools:
 
 
 
-
+![black-software100's Stats](https://github-readme-stats.vercel.app/api?username=black-software100&theme=dark&show_icons=true&hide_border=false&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=black-software100&theme=dark)](https://git.io/streak-stats)
-
+![black-software100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=black-software100&theme=dark&show_icons=true&hide_border=false&layout=compact)
