@@ -23,10 +23,10 @@ width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
 
 
 
-![black-software100's Stats](https://github-readme-stats.vercel.app/api?username=ibarguen-devtheme=dark&show_icons=true&hide_border=false&count_private=true)
+![ibarguen-dev's Stats](https://github-readme-stats.vercel.app/api?username=ibarguen-dev&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ibarguen-dev&theme=dark)](https://git.io/streak-stats)
 
 
-![black-software100's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarguen-devtheme=dark&show_icons=true&hide_border=false&layout=compact)
+![ibarguen-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarguen-dev&theme=dark&show_icons=true&hide_border=false&layout=compact)
