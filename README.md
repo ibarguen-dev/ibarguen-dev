@@ -19,15 +19,8 @@ Languages and tools:
 width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
           
           
-
-
-
-
-![ibarguen-dev's Stats](https://github-readme-stats.vercel.app/api?username=ibarguen-dev&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ibarguen-dev&theme=dark)](https://git.io/streak-stats)
 
 
 
-![ibarguen-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarguen-dev&theme=dark&show_icons=true&hide_border=false&layout=compact)
+[![ibarguen-dev Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibarguen-dev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
